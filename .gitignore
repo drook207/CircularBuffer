@@ -84,3 +84,5 @@ compile_commands.json
 
 build/build-Debug.ninja build/build.ninja build/build-Release.ninja build/build-RelWithDebInfo.ninja build/CMakeCache.txt build/CMakeFiles build/cmake_install.cmake
 build/
+cache/
+.cache/clangd
